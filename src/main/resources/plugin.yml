@@ -1,0 +1,5 @@
+name: ImmutatioObstructum
+main: net.platzhaltergaming.immutatioobstructum.Main
+author: "Alexander Trost"
+version: ${project.version}
+api-version: 1.19
